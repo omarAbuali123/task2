@@ -1,0 +1,66 @@
+td{
+    border: 2px solid;
+    border-radius:5px ;
+    box-shadow: 2px 2px 4px #272222 ;
+    display: inline-block;
+    margin: 3px;
+}
+
+h1{
+   a{ color: #1a1616;}
+}
+.headingone{
+    color: royalblue;
+    a{color: orange;}
+}
+.heading2{
+    a{color: orange;}
+}
+.heading3{
+    a{color: red;
+        background-color: rgb(233, 219, 12);}
+}
+.heading4{
+    font-weight: bold;
+    a{color: red;}
+}
+.heading5{
+    font-weight: bold;
+    color:blue;
+}
+.heading6{
+    color: blue;
+    a{color: red;}
+}
+.heading7{
+    color: blue;
+}
+.heading8{
+    color: blue;
+    font-weight: bold;
+}
+.heading9{
+    color: blue;
+}
+.heading10{
+    color: blue;
+    a{
+        color: red;
+    }
+}
+
+div{
+    width: 300px;
+    height: 150;
+    background-color: #8f8787b3;
+}
+
+body{
+    background-color: rgb(232, 218, 201);
+}
+
+p{
+
+    height: 100px;
+    overflow: scroll;
+    }
