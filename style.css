@@ -1,7 +1,7 @@
 td{
     border: 2px solid;
     border-radius:5px ;
-    box-shadow: 2px 2px 4px #272222 ;
+    box-shadow: 7px 7px 5px #272222 ;
     display: inline-block;
     margin: 3px;
 }
@@ -62,5 +62,5 @@ body{
 p{
 
     height: 100px;
-    overflow: scroll;
+    overflow-y: scroll;
     }
